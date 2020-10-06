@@ -1,0 +1,12 @@
+>Basic functional requirements for a snake game are:
+        >To add details of the person who is playing the game such as name.
+        >To give the score of the player after the gmae quits.
+        >To list all the previous players name and their respective scores.
+        >User should have basic knowledge to play the game ,this includes when to use keys such as right,left,top,bottom.
+        >User can either direct to main menu or exit from the application.
+>Non-functional requirements are:
+        >The user must provide proper data according to the given options.
+        >The console application is portable ,so it becomes easy to shift from one OS to another OS without any errors
+        >The application is user-friendly
+>Tools :
+        Code blocks
